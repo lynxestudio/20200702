@@ -42,5 +42,3 @@ Fig 5. Adding a new course on the DataTable.
 
 Fig 6. Save changes of the DataSet back to the Data Source.
 
- Download the visual studio project for this example.
- Download the database and store procedures scripts for this example.
