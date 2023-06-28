@@ -30,15 +30,15 @@ The DataAdapter has four properties that are used to retrieve data from and pers
 
 The following example demonstrates how to use Datasets, DataAdapters, Datatables,Constraints and Relations for performing disconnected operations on a database, also shows how to use the properties of a SqlDataAdapter with Store procedures. This example uses the following database to manage a collection of courses and one category per course.
 
-Fig 1. The structure of the sample database.
-
-Fig 2. Running the example, showing the courses.
-
-Fig 3. Adding a new category.
-
-Fig 4. Deleting a row.
-
-Fig 5. Adding a new course on the DataTable.
-
-Fig 6. Save changes of the DataSet back to the Data Source.
-
+<p>Fig 1. The structure of the sample database.</p>
+<img src="CoursesApp/fig6.png"/>
+<p>Fig 2. Running the example, showing the courses.</p>
+<img src="CoursesApp/fig1.png"/>
+<p>Fig 3. Adding a new category.</p>
+<img src="CoursesApp/fig2.png"/>
+<p>Fig 4. Deleting a row.</p>
+<img src="CoursesApp/fig3.png"/>
+<p>Fig 5. Adding a new course on the DataTable.</p>
+<img src="CoursesApp/fig4.png"/>
+<p>Fig 6. Save changes of the DataSet back to the Data Source.</p>
+<img src="CoursesApp/fig5.png">
